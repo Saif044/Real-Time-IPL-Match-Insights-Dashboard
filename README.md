@@ -14,3 +14,5 @@ This project features a dynamic dashboard built in Power BI to display live IPL 
 - **Interactive Visualizations:** Designed engaging visual elements in Power BI for intuitive user interaction.  
 
 ### Preview
+![IPL Dashboard](dashboard.png)
+![IPL Dashboard](dashboard.gif)
